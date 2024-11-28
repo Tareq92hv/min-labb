@@ -1,2 +1,3 @@
 Det här är min första labbfil
 Jag har lagt till en ny rad!
+Detta är en ändring i ny-branch
